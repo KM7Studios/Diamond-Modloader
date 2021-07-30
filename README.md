@@ -1,7 +1,7 @@
 # Diamond-Modloader
 Diamond Modloader is a Minecraft modloader that has MCP compatibility.
 
-* # THIS PROJECT IS STILL IN DEVELOPMENT. THERE ARE NO CURRENT RELEASES YET. #*
+# *THIS PROJECT IS STILL IN DEVELOPMENT. THERE ARE NO CURRENT RELEASES YET.*
 
 # MCP
 -------------------------------
