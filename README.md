@@ -1,13 +1,7 @@
 # Diamond-Modloader
-Diamond Modloader is a Minecraft modloader that has MCP compatibility.
+Diamond Modloader is a Minecraft modloader.
 
 # *THIS PROJECT IS STILL IN DEVELOPMENT. THERE ARE NO CURRENT RELEASES YET.*
-
-# MCP
--------------------------------
-
-Get MCP for the version you want to use, then get the Diamond MCP kit for that same version. Now setup MCP normally, and put the Diamond MCP kit into the src folder.
-Now you can run it like normal.
 
 # Normal
 -------------------------------
